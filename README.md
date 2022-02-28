@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamsvm
+- 👋 Hi, I’m @shivam dhurvey
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on 
